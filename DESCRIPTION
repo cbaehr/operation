@@ -1,0 +1,8 @@
+Package: operation
+Type: Package
+Title: Perform some operation
+Version: 0.1
+Date: 2020-02-13
+Author: Christian B
+Description: This package performs some operation.
+RoxygenNote: 7.0.2

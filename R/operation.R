@@ -2,9 +2,10 @@
 #'
 #' Given two input values, perform some arithmetic operation on them.
 #'
-#' @param x The first input value
+#' @param x The first input value. This should only take a single value.
 #' @param y The second input value. Should have the same dimensionality as first.
 #' @param op The arithmetic operation to be run on x and y.
+#' @rdname operation
 #' @export
 operation <- function(x, y, op) {
   
